@@ -6,9 +6,8 @@ body{
     cursor: pointer;
 }
 
-h1{
+body {
     color: aquamarine;
-    transition: color 0.5s ease-in-ou t;
 }
 .clicked {
     color: ivory;
