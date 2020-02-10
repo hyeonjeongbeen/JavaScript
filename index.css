@@ -1,0 +1,24 @@
+body{
+    background-color: wheat;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+h1{
+    color: aquamarine;
+    transition: color 0.5s ease-in-ou t;
+}
+.clicked {
+    color: ivory;
+}
+
+.form,
+.greetings {
+    display: none;
+}
+
+.showing{
+    display: block;
+}
